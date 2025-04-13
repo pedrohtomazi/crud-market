@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Lápis",
+    "preco": 2
+  },
+  {
+    "nome": "Caderno",
+    "preco": 10
+  },
+  {
+    "nome": "Perfume",
+    "preco": 20
+  },
+  {
+    "nome": "Camiseta",
+    "preco": 23
+  },
+  {
+    "nome": "Calca",
+    "preco": 12
+  },
+  {
+    "nome": "Sacola",
+    "preco": 23
+  }
+]
